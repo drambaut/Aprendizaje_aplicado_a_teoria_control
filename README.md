@@ -1,1 +1,1 @@
-# Aprendizaje_aplicado_a_teoria_control
+# Aprendizaje automatico aplicado a teoria_control
